@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>John0King</Authors>
+    <Description>保利威视 .net standard SDK</Description>
   </PropertyGroup>
 
   <ItemGroup>
